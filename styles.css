@@ -1,5 +1,7 @@
 
 /* Your CSS Code here. */
-body{
-	flex-flow: row wrap;
+.holder{
+	display:flex;
+	justify-content:center;
+	flex-wrap:wrap;
 }
